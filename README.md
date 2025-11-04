@@ -24,16 +24,19 @@ It focuses on **customer churn**, **loan performance**, and **transaction behavi
 |------|--------------|
 | `bank.sql` | MySQL schema and sample data |
 | `Bank_Analytics_Report_WeltechPro_with_Screenshots_and_SQL.docx` | Full report with screenshots |
-| `PowerBI_screenshot.png` | Dashboard preview |
+| `bank_dashboard.png` | Dashboard preview |
 
 ---
 
 ## 📷 Preview
-![Dashboard Preview](PowerBI_screenshot.png)
+![Dashboard Preview](./bank_dashboard.png)
+
+> If you’re viewing this on GitHub, the image above shows the Power BI dashboard summary.
 
 ---
 
 ## 🧑‍💻 Author
 **Weldon Langat (Weltech Pro)**  
 📍 Nairobi, Kenya  
-🔗 [Portfolio Website](https://langat01.github.io/)
+🔗 [Portfolio Website](https://langat01.github.io/)  
+📧 [langatweldon665@gmail.com](mailto:langatweldon665@gmail.com)
